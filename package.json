@@ -1,0 +1,26 @@
+{
+  "name": "express-form-redirect-pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/express-form-redirect-pool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/express-form-redirect-pool/issues"
+  },
+  "homepage": "https://github.com/wahengchang/express-form-redirect-pool#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-watcher": "^1.0.3",
+    "nodemon": "^1.12.1"
+  }
+}
